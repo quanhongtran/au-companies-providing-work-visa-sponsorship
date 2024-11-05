@@ -83,6 +83,7 @@ A searchable sort-able and group-able version of the list of companies below is 
 - [Shippit](https://www.shippit.com/careers/) | Sydney CBD, Sydney | Ruby, JavaScript, NodeJs, ReactJs, AWS
 - [SiteMinder](https://www.siteminder.com/jobs/) | Sydney CBD, Sydney | JavaScript, Typescript, NodeJs, Vue, Ruby, GoLang, Java
 - [Spaceship](https://www.spaceship.com.au/careers) | Sydney CBD, Sydney | Go, JavaScript, React
+- [Spacesium] (https://www.spacesium.com/careers) | Brisbane CBD, Brisbane | MATLAB, JavaScript, NodeJs, Python, Django, React, AWS, Kubernetes, C++ 
 - [SwitchMedia](https://www.switch.tv/careers/) | Sydney CBD, Sydney | PHP, JavaScript, Go
 - [SquareUp](https://careers.squareup.com/) | Melbourne, Sydney | CI/CD, AWS, Data Analyst, DevOps
 - [Tyro](https://www.tyro.com/careers/) | Sydney CBD, Sydney | Java, Scala, Kotlin, Kafka, Spark, AWS
